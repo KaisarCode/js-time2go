@@ -1,0 +1,27 @@
+{
+  "name": "kc-time2go",
+  "version": "1.0.0",
+  "description": "[js] Days, Hours, Minutes, Seconds... left.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-time2go.git"
+  },
+  "keywords": [
+    "time",
+    "left",
+    "until",
+    "days",
+    "hours",
+    "minutes"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-time2go/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-time2go",
+  "dependencies": {
+    "fun2mod": "^1.0.3"
+  }
+}
