@@ -1,6 +1,6 @@
 {
   "name": "kc-time2go",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[js] Days, Hours, Minutes, Seconds... left.",
   "main": "index.js",
   "repository": {
