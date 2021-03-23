@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-time2go.git"
+    "url": "https://github.com/kaisarsnippets/js-time2go.git"
   },
   "keywords": [
     "time",
@@ -18,9 +18,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-time2go/issues"
+    "url": "https://github.com/kaisarsnippets/js-time2go/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-time2go",
+  "homepage": "https://github.com/kaisarsnippets/js-time2go",
   "dependencies": {
     "fun2mod": "^1.0.3"
   }
